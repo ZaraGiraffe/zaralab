@@ -1,0 +1,6 @@
+.conda
+.pytest_cache
+__pycache__
+package-lock.json
+databases
+node_modules
